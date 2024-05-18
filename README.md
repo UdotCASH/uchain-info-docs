@@ -1,5 +1,4 @@
 ---
-description: >-
   Blockchain explorer for inspecting, analyzing, and interacting with UCHAIN.
 ---
 
