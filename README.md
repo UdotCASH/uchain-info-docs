@@ -1,7 +1,6 @@
 ---
 description: >-
-  Blockchain explorer for inspecting, analyzing, and interacting with EVM chains
-  and optimistic rollups and zkrollups.
+  Blockchain explorer for inspecting, analyzing, and interacting with UCHAIN.
 ---
 
 # UCHAIN.INFO Blockchain Explorer
