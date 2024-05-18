@@ -5,7 +5,7 @@ The new frontend includes generalized support for L2s including views for attrib
 There are several options when deploying the new frontend and migrating your instance. You can either deploy in an all-in-one container, or deploy the frontend separately and connect it to the backend for more flexibility. If you have a custom backend (have made significant changes to the indexer etc) please use option 3.
 
 {% hint style="success" %}
-If you need help or would like UCHAIN.INFO to assist with migration or hosting please [reach out in our Discord](https://discord.com/invite/uchaininfo).
+If you need help or would like UCHAIN.INFO to assist with migration or hosting please [reach out in our Discord](https://discord.gg/gUxr4sZHq4).
 {% endhint %}
 
 1. [**All-in-one**](all-in-one-container.md): This is an easier deployment process but less flexible. It will deploy everything within a single docker container. **DO NOT use if you plan to host your frontend separately or want to make significant changes to the frontend.**
